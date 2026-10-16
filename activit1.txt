@@ -1,1 +1,3 @@
 ﻿Hello! I'm Maika Tribo.
+
+I am learning how to use a git pull
